@@ -2,15 +2,15 @@ import { Icons } from "@/components/icons";
 import { CodeIcon } from "lucide-react";
 
 export const DATA = {
-	name: "Florian",
-	initials: "FlorianDevv",
+	name: "Flo",
+	initials: "FloDevv",
 	url: "https://dillion.io",
 	location: "Annecy, France",
 	locationLink: "https://www.google.com/maps/place/annecy",
 	description:
 		"Développeur Full Stack passionné, spécialisé dans le développement d'applications web",
 	summary:
-		"Étudiant passionné par la programmation 💻, avec un vif désir d'apprendre et de créer 🎨. Je possède une solide base en développement front-end et back-end 🖥️, détaillée dans la section compétences.Ma préférence se porte sur le développement front-end, notamment grâce à mon intérêt pour Next.js et ses performances exceptionnelles ⚡. Curieux des dernières innovations technologiques 🚀, je m'efforce constamment de me tenir informé et d'adopter les meilleures technologies disponibles, tant pour le développement que pour les outils du quotidien, y compris pour l'intelligence artificielle ✨.",
+		"Hey ! Moi c’est Flo, étudiant passionné par le code 💻, toujours prêt à apprendre de nouvelles choses et à mettre la main à la pâte. J’ai quelques bases solides en dev front et back 🖥️ (tu peux voir ça dans mes compétences), et je suis du genre à me tenir à jour sur tout ce qui touche à la tech et aux nouveautés 🚀. Que ce soit pour les projets de dev ou même les outils que j’utilise au quotidien, j’aime bien tester les dernières technos, y compris ce qui se fait en IA ✨. Bref, toujours en mode apprentissage et curieux de découvrir de nouvelles choses !",
 	avatarUrl: "/me.png",
 	skills: [
 		"Next.js",
@@ -36,7 +36,7 @@ export const DATA = {
 		social: {
 			GitHub: {
 				name: "GitHub",
-				url: "https://github.com/FlorianDevv",
+				url: "https://github.com/FloDevv",
 				icon: Icons.github,
 				navbar: true,
 			},

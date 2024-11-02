@@ -170,13 +170,11 @@ export default function Page() {
 								Contact
 							</div>
 							<h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-								Contactons-Nous
+								Me Contacter
 							</h2>
 							<p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-								Vous souhaitez me parler ? Envoyez-moi simplement un message
-								privé sur LinkedIn, je vous répondrai dès que possible. Vous
-								pouvez également me contacter par email à l&apos;adresse
-								suivante : <b>{DATA.contact.email}</b>
+								Vous pouvez me contacter par email à l&apos;adresse suivante :{" "}
+								<b>{DATA.contact.email}</b>
 							</p>
 						</div>
 					</BlurFade>
